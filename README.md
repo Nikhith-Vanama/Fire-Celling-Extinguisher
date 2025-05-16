@@ -1,1 +1,2 @@
 # Fire-Celling-Extinguisher
+Fire Ceiling Extinguisher Project is an automated fire safety system designed to detect fire and activate a ceiling-mounted extinguisher to suppress it. The system uses sensors like flame or smoke detectors to continuously monitor the environment. When fire is detected, a microcontroller triggers the release of extinguishing agents from the ceiling unit. This setup enhances fire response time and minimizes manual intervention. It is ideal for use in buildings, labs, and sensitive infrastructure.
